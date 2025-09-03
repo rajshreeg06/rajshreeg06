@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 🎖️ Achievements & Badges  
+[![Layer5 Design Pioneer](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://badges.layer5.io)
+
 <!--
 **rajshreeg06/rajshreeg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
